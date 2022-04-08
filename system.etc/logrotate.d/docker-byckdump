@@ -1,5 +1,5 @@
-/var/log/byckdump/info.log
-/var/log/byckdump/error.log
+/var/opt/logs-byckdump/info.log
+/var/opt/logs-byckdump/error.log
 {
         rotate 2
         daily
